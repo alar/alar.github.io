@@ -1,0 +1,9 @@
+{
+	"appId": "VillagerKings",
+	"appName": "VillagerKings",
+	"webDir": "dist/VillagerKings",
+	"bundledWebRuntime": false,
+  "electron": {
+    "splashScreenEnabled": false
+  }
+}
